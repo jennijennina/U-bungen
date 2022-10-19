@@ -6,7 +6,7 @@ Eine Übung im SuperCode Bootcamp
 
 Aufgabenstellung
 
-Das heutige Projekt sind Übungen zu JavaSript - Loops
+Das heutige Projekt sind Übungen zu JavaScript - Loops
 
 ## 📸 Screenshots
 
