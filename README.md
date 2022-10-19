@@ -6,7 +6,7 @@ Eine Übung im SuperCode Bootcamp
 
 Aufgabenstellung
 
-Das heutige Projekt sind Übungen zu JavaScript - Loops
+Das heutige Projekt sind Übungen zur Vertiefung zu JavaScript - Loops
 
 ## 📸 Screenshots
 
@@ -14,7 +14,7 @@ Das heutige Projekt sind Übungen zu JavaScript - Loops
 
 ## 💻 Running
 
-Zur Seite —> - [Vertiefung JavaScript – Loops](https://github.com/jennijennina/Vertiefung-JavaScript-Loops_Uebungen)
+Zur Seite —> - [Vertiefung JavaScript – Loops](https://jennijennina.github.io/Vertiefung-JavaScript-Loops_Uebungen/)
 
 <p align="left">
 </p>
